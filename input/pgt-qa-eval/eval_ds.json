@@ -1,0 +1,1228 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What should I do if I hear a continuous alarm?",
+              "id": 354187,
+              "answers": [
+                {
+                  "answer_id": 392122,
+                  "document_id": 614305,
+                  "question_id": 354187,
+                  "text": "evacuate the building immediately",
+                  "answer_start": 67,
+                  "answer_end": 100,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "prepared to evacuate the building. Stage 2 is a continuous alarm – evacuate the building immediately. The audible alarm for the IT building is a single system. Upon hearing the fire alarm, it is necessary to evacuate the building. In the event of the alarm being activated, security will attend in the first instance. Fire Evacuation Procedure: On hearing the fire alarm all occupants should evacuate the building immediately by their nearest available exit. Do not use lifts Do not return to the office to collect belongings Go to the Building Assembly Point Fire action notices are located throughout all",
+          "document_id": 614305
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How can I contact the emergency services?",
+              "id": 354184,
+              "answers": [
+                {
+                  "answer_id": 392119,
+                  "document_id": 614310,
+                  "question_id": 354184,
+                  "text": "by calling 9999 on an internal or 999 on an external line",
+                  "answer_start": 239,
+                  "answer_end": 296,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "will be stationed on the bridge to assist occupants of the vulnerable building to escape in an orderly manner and to prohibit re-entry.\nEmergencies In the event of any emergency, medical or otherwise, please contact the emergency services by calling 9999 on an internal or 999 on an external line. The university security office must also be informed once the emergency services have been alerted by calling 69966 on an internal or 0161 306 9966 on an external line. The department health and safety advisor must be notified of any emergency by calling 56232 on an internal or 0161 275 6232",
+          "document_id": 614310
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How often are low risk items tested?",
+              "id": 354189,
+              "answers": [
+                {
+                  "answer_id": 392124,
+                  "document_id": 614315,
+                  "question_id": 354189,
+                  "text": "every four years",
+                  "answer_start": 268,
+                  "answer_end": 284,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How often are high risk items tested?",
+              "id": 354190,
+              "answers": [
+                {
+                  "answer_id": 392125,
+                  "document_id": 614315,
+                  "question_id": 354190,
+                  "text": "annually",
+                  "answer_start": 144,
+                  "answer_end": 152,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "carried out at regular intervals. High risk portable appliances (heaters, power supplies, electric drills, kettles, etc) are checked and tested annually. Lower risk items like computer workstations, which are classed as semi-permanent fixtures, are checked and tested every four years. All portable appliances, including separate mains cables will be clearly labelled upon completion of the test. A recommended retest date will be indicated on the label. Please ensure that all heaters and high load non-essential appliances within your working area are switched off before you leave the building.\nLone Working and Out-of-Hours Working Lone Working: lone working is defined as working",
+          "document_id": 614315
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How is a first-time malpractice offence handled?",
+              "id": 354185,
+              "answers": [
+                {
+                  "answer_id": 392120,
+                  "document_id": 614362,
+                  "question_id": 354185,
+                  "text": "a panel within the department who will listen to the case against the student(s)",
+                  "answer_start": 167,
+                  "answer_end": 247,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the penalty for first-time malpractice offence?",
+              "id": 354188,
+              "answers": [
+                {
+                  "answer_id": 392123,
+                  "document_id": 614362,
+                  "question_id": 354188,
+                  "text": " typically marks will be reduced",
+                  "answer_start": 371,
+                  "answer_end": 403,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What guidance is offered to first-time malpractice offenders?",
+              "id": 354193,
+              "answers": [
+                {
+                  "answer_id": 392128,
+                  "document_id": 614362,
+                  "question_id": 354193,
+                  "text": "The department also normally offers some retraining in correct presentation of work",
+                  "answer_start": 405,
+                  "answer_end": 488,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "if needed, an appeal should be made to faculty within ten days for work and attendance matters.\nSuspected first offences of malpractice in coursework will be heard by a panel within the department who will listen to the case against the student(s), to any defence presented by the student(s) and will examine the evidence. If malpractice is found to have taken place then typically marks will be reduced. The department also normally offers some retraining in correct presentation of work to students found to have engaged in malpractice. If a second or subsequent offence is suspected then the case is passed",
+          "document_id": 614362
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Will there be security out of hours?",
+              "id": 354192,
+              "answers": [
+                {
+                  "answer_id": 392127,
+                  "document_id": 614318,
+                  "question_id": 354192,
+                  "text": "the presence of security or department staff members cannot be guaranteed",
+                  "answer_start": 350,
+                  "answer_end": 423,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "weekends, bank holidays and any other days when the building is closed (for example Christmas closure period). On occasion, it may be necessary to use the facilities available in the Kilburn and IT buildings outside normal working hours. This can only be done when your university ID card has been approved for Out-of-Hours access. During this time, the presence of security or department staff members cannot be guaranteed. It is therefore extremely important that all occupants know what to do should an emergency occur within the department such as a fire, or the need for medical attention. Out-of-Hours Work in",
+          "document_id": 614318
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Is attendance of course units compulsory?",
+              "id": 354197,
+              "answers": [
+                {
+                  "answer_id": 392134,
+                  "document_id": 614324,
+                  "question_id": 354197,
+                  "text": "Attendance at the timetabled sessions of the taught course units is compulsory",
+                  "answer_start": 213,
+                  "answer_end": 291,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "and Policies\nThe university website contains details of university regulations, procedures and policies, including those for work and attendance, for MSc dissertations, for appeals, on plagiarism, etc.\nAttendance Attendance at the timetabled sessions of the taught course units is compulsory. During the project phase, students are expected to be in Manchester, up until submission of theirdissertation, to allow themto have your regular meetings with you’re their supervisor face to face. We monitor students’ attendance during the taught part by weekly completion of class registers and checking coursework submission, and during the project phase of the programme via brief, fortnightly student progress updates",
+          "document_id": 614324
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is collusion?",
+              "id": 354168,
+              "answers": [
+                {
+                  "answer_id": 392107,
+                  "document_id": 614354,
+                  "question_id": 354168,
+                  "text": "any agreement to hide someone else’s individual input to collaborative work",
+                  "answer_start": 128,
+                  "answer_end": 203,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "you persuade other students to let you copy their work, they risk being disciplined as well (see below). Collusion Collusion is any agreement to hide someone else’s individual input to collaborative work. Where proved, it will be subject to penalties similar to those for plagiarism. Similarly, it is also collusion to allow someone to copy your work, and that will lay both you and the other student open to a charge of academic malpractice. You should ensure that: you do not leave work on printers; you do not give passwords to other students; you do not allow other students to",
+          "document_id": 614354
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can I appeal a plagiarism decision?",
+              "id": 354163,
+              "answers": [
+                {
+                  "answer_id": 392097,
+                  "document_id": 614360,
+                  "question_id": 354163,
+                  "text": "Students have a right of appeal as detailed in the university policy.",
+                  "answer_start": 503,
+                  "answer_end": 572,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Who decides if my work is plagiarism?",
+              "id": 354175,
+              "answers": [
+                {
+                  "answer_id": 392110,
+                  "document_id": 614360,
+                  "question_id": 354175,
+                  "text": "The plagiarism officer",
+                  "answer_start": 198,
+                  "answer_end": 220,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Who reports plagiarism?",
+              "id": 354177,
+              "answers": [
+                {
+                  "answer_id": 392112,
+                  "document_id": 614360,
+                  "question_id": 354177,
+                  "text": "The markers of your work will report any suspect work to one of the department’s plagiarism officers",
+                  "answer_start": 96,
+                  "answer_end": 196,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Practice vs. Malpractice The university has strict rules for the handling of malpractice cases. The markers of your work will report any suspect work to one of the department’s plagiarism officers. The plagiarism officer will decide whether they believe there is a case of either malpractice (the most serious), poor practice or that there is no problem with the suspected student assignment. In all cases, penalties for submission of improper coursework will be applied in line with university policy. Students have a right of appeal as detailed in the university policy. Initially appeals should be discussed with the department. However,",
+          "document_id": 614360
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What does plagiarism include?",
+              "id": 354170,
+              "answers": [
+                {
+                  "answer_id": 392133,
+                  "document_id": 614355,
+                  "question_id": 354170,
+                  "text": " not only text but also other written matter including computer programs and diagrams",
+                  "answer_start": 300,
+                  "answer_end": 385,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "paraphrase of their words,\nor a minimally adapted version of a computer program, a diagram, a graph, an illustration, etc. taken from a variety of sources without proper acknowledgement. These could be lectures, printed material, the Internet or other electronic/AV sources. Note: plagiarism includes not only text but also other written matter including computer programs and diagrams. Remember: no matter what pressure you may be under to complete an assignment, you should never succumb to the temptation to take a short cut and use someone else’s material inappropriately. No amount of mitigating circumstances will get you off the hook, and if",
+          "document_id": 614355
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How will I be assessed in group work?",
+              "id": 354173,
+              "answers": [
+                {
+                  "answer_id": 392108,
+                  "document_id": 614357,
+                  "question_id": 354173,
+                  "text": " it will always be made clear how your individual input to the joint work is to be assessed and graded",
+                  "answer_start": 277,
+                  "answer_end": 379,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "is a perfectly legitimate academic activity in which students are required to work in groups as part of their course of research or in the preparation of projects and similar assignments. If you are asked to carry out such\ngroup work and to collaborate in specified activities, it will always be made clear how your individual input to the joint work is to be assessed and graded. Sometimes, for example, all members of a team may receive the same mark for a joint piece of work. Whereas on other occasions, team members will receive individual marks that reflect their individual input.",
+          "document_id": 614357
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How are most complaints handled?",
+              "id": 354194,
+              "answers": [
+                {
+                  "answer_id": 392129,
+                  "document_id": 614361,
+                  "question_id": 354194,
+                  "text": " quickly and informally",
+                  "answer_start": 124,
+                  "answer_end": 147,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How do I make a complaint?",
+              "id": 354195,
+              "answers": [
+                {
+                  "answer_id": 392130,
+                  "document_id": 614361,
+                  "question_id": 354195,
+                  "text": "orally or in writing, to an appropriate member of staff",
+                  "answer_start": 185,
+                  "answer_end": 240,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What can I do if I am dissatisfied with a complaints response?",
+              "id": 354196,
+              "answers": [
+                {
+                  "answer_id": 392131,
+                  "document_id": 614361,
+                  "question_id": 354196,
+                  "text": "you should put the complaint in writing to the PGT programme director",
+                  "answer_start": 528,
+                  "answer_end": 597,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "to Faculty to deal with, and any penalty is likely to be more severe.\nComplaints Procedure Most complaints can be dealt with quickly and informally. Complaints should be made promptly, orally or in writing, to an appropriate member of staff, such as your course unit leader, project supervisor or academic advisor. If your complaint is of a general nature, it might be best to mention it to your student representative so that he/she can raise it at the relevant department committee. If you are dissatisfied with the response, you should put the complaint in writing to the PGT programme director. If,",
+          "document_id": 614361
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where is the department located?",
+              "id": 354141,
+              "answers": [
+                {
+                  "answer_id": 392073,
+                  "document_id": 614229,
+                  "question_id": 354141,
+                  "text": "Kilburn Building",
+                  "answer_start": 100,
+                  "answer_end": 116,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Where is the Hub?",
+              "id": 354142,
+              "answers": [
+                {
+                  "answer_id": 392074,
+                  "document_id": 614229,
+                  "question_id": 354142,
+                  "text": "Engineering Building A",
+                  "answer_start": 321,
+                  "answer_end": 343,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Where is the department of Computer Science located?",
+              "id": 354165,
+              "answers": [
+                {
+                  "answer_id": 392099,
+                  "document_id": 614229,
+                  "question_id": 354165,
+                  "text": "Kilburn Building",
+                  "answer_start": 100,
+                  "answer_end": 116,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Chapter 1: General Information Contact Details The Department of Computer Science is located in the Kilburn Building. Student Support Office email: compsci-sso-pgt@manchester.ac.uk tel +44 (0) 161 306 8155 In person support is available from the Faculty of Science and Engineering South Campus Hub. The Hub is located in Engineering Building A. hubs will be able to answer general queries from any student. You can find these locations on the campus map. Opening hours are Monday – Friday 09:00 – 17:00. The Engineering Building A hub is based on the ground floor, adjacent to the main entrance - a digital floor",
+          "document_id": 614229
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How can I get help on my MSc project?",
+              "id": 354146,
+              "answers": [
+                {
+                  "answer_id": 392078,
+                  "document_id": 614236,
+                  "question_id": 354146,
+                  "text": "consult your supervisor",
+                  "answer_start": 193,
+                  "answer_end": 216,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Can I get help with my mental health?",
+              "id": 354147,
+              "answers": [
+                {
+                  "answer_id": 392079,
+                  "document_id": 614236,
+                  "question_id": 354147,
+                  "text": "The university has an excellent Counselling and Mental Health Service",
+                  "answer_start": 466,
+                  "answer_end": 535,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "and can always advise on management of work. For academic help on particular course units, consult the lecturers on that course unit. For academic help on the MSc project in the first instance consult your supervisor, and for organizational queries about the project consult the MSc project coordinator. Procedures and Administration: for forms, procedures etc. please contact the Student Support Office (SSO). Many forms are available on the department StudentNet. The university has an excellent Counselling and Mental Health Service with a drop-in centre, quick appointments, workshops and resources. There is also help from the Students’ Union and Legal Services.",
+          "document_id": 614236
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where is the list of course units?",
+              "id": 354143,
+              "answers": [
+                {
+                  "answer_id": 392075,
+                  "document_id": 614231,
+                  "question_id": 354143,
+                  "text": "the syllabus page",
+                  "answer_start": 381,
+                  "answer_end": 398,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "services, facilities and documents that are available to help you. Programme handbook (this document): full of useful details, advice and general information. We expect you to read and consult it. Syllabus: the descriptions for each MSc programme and the pathways therein are available on the pathways page.\nThe full list of MSc course units and their descriptions is available on the syllabus page. Do read the theme and course unit descriptions. They outline the aims of each course unit, the contents and who should take the course unit (including requisite academic background). You are recommended to attend the theme introduction talks",
+          "document_id": 614231
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are there dedicated MSc facilities?",
+              "id": 354145,
+              "answers": [
+                {
+                  "answer_id": 392077,
+                  "document_id": 614232,
+                  "question_id": 354145,
+                  "text": "There are dedicated MSc computing facilities in Room 2.25a and 2.25b of the Kilburn Building",
+                  "answer_start": 300,
+                  "answer_end": 392,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "our timetable page. Additional information about life in Manchester, and settling in, is provided on our student support page. Employability: the university careers service provides useful information and support. This includes information on vacancies and advice on making applications. Facilities: There are dedicated MSc computing facilities in Room 2.25a and 2.25b of the Kilburn Building. All machines in the MSc lab support Linux and MS Windows. On many of the programmes, you need to be familiar with both systems. There is an introductory lab on our systems in Welcome Week. In 2.11, next to the laboratory area, there is a",
+          "document_id": 614232
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where can I find the latest information?",
+              "id": 354144,
+              "answers": [
+                {
+                  "answer_id": 392076,
+                  "document_id": 614235,
+                  "question_id": 354144,
+                  "text": "the department postgraduate taught (PGT) webpages",
+                  "answer_start": 203,
+                  "answer_end": 252,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "in Welcome Week, before finalising your choice of themes and course units. For all the latest information regarding handbooks, syllabi, timetables, projects, specialist advice and guidance, please visit the department postgraduate taught (PGT) webpages. Induction: during the first week, called Welcome Week, we run a number of important induction events, explaining how the department, the programmes, course units, exams, coursework, email accounts, projects, etc. work, setting you up to start with your studies in week one. It is vital that you meet and make friends with staff and other MSc students. Information regarding the Welcome Week timetable is available on",
+          "document_id": 614235
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How do I get a reference letter?",
+              "id": 354151,
+              "answers": [
+                {
+                  "answer_id": 392084,
+                  "document_id": 614242,
+                  "question_id": 354151,
+                  "text": "ask your project supervisor",
+                  "answer_start": 73,
+                  "answer_end": 100,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "if necessary. If you need a reference letter for an application, you can ask your project supervisor, a lecturer of a course unit you have taken or your academic advisor. A lecturer on a course unit may not think that they know you well enough to write a useful reference, but your project supervisor and academic advisor should provide one on request. Note that the academic advisor may also not know your work especially well.\nAcademic staff (lecturers, senior lecturers, readers, professors) will teach course units and supervise projects. Each course unit has a course unit leader, but may be taught",
+          "document_id": 614242
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who is responsible for the programme?",
+              "id": 354149,
+              "answers": [
+                {
+                  "answer_id": 392082,
+                  "document_id": 614239,
+                  "question_id": 354149,
+                  "text": "The postgraduate taught (PGT) programme director",
+                  "answer_start": 505,
+                  "answer_end": 553,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "of your visa queries. The contact details for the University’s International Advice team are: email visa@manchester.ac.uk tel +44 (0)161 275 5000 (option 1)\nProgramme Staff Responsibility\nName and homepage\nPGT Programme Director\nProf Norman Paton\nLead Academic Advisor\nDr Sandra Sampaio\nProject Coordinator\nProf Tom Thomson\n1.1 Academic Staff with responsibility for the programme Table 1.1 summarises the roles of academic staff who have substantial responsibilities relating to our master's programmes. The postgraduate taught (PGT) programme director has overall responsibility for the management of the programmes. Academic advisors are there to offer students pastoral and academic advice. If you have any questions regarding your programme choice, progress, or performance,",
+          "document_id": 614239
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What if I am not able to attend my activities?",
+              "id": 354148,
+              "answers": [
+                {
+                  "answer_id": 392080,
+                  "document_id": 614240,
+                  "question_id": 354148,
+                  "text": "you must let us know",
+                  "answer_start": 553,
+                  "answer_end": 573,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "the programme. This is particularly important for those students with a Tier 4 Student Visa, as the University must meet the UKVI statutory requirements as a sponsor of Tier 4 students and its responsibilities in accordance with its highly trusted sponsor status. What happens if a Tier 4 student is not in regular attendance? The department must be able to confirm Tier 4 student’s engagement to the UKVI throughout the academic year. If you are not able to attend your scheduled activities (or meetings with your supervisor during the project period) you must let us know. Initially the department will",
+          "document_id": 614240
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What does the academic advisor do?",
+              "id": 354150,
+              "answers": [
+                {
+                  "answer_id": 392083,
+                  "document_id": 614245,
+                  "question_id": 354150,
+                  "text": "monitor both academic performance and student engagement",
+                  "answer_start": 228,
+                  "answer_end": 284,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "their students’ personal and general academic and professional development throughout their academic careers while at the university, providing information and guidance on academic choice; The role of the academic advisor is to monitor both academic performance and student engagement in a proactive manner and advise on constructive strategies to enable improvement; The role of the academic advisor is to offer general academic advice to students on their general progress and development; The role of the academic advisor is to listen and offer students help and advice about pastoral/non-academic matters and to signpost students to other student services for further assistance",
+          "document_id": 614245
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "When are the exams?",
+              "id": 354157,
+              "answers": [
+                {
+                  "answer_id": 392091,
+                  "document_id": 614257,
+                  "question_id": 354157,
+                  "text": "at the end of each semester",
+                  "answer_start": 82,
+                  "answer_end": 109,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "for assessed work will be set in individual course units. Examinations take place at the end of each semester, and resit examinations are scheduled in the summer. Taught course units are worth 15 credits each and you need to take six taught course units for an MSc. You should take four course units in the first semester (two in each period) and two in the second semester (one in each period, in parallel with work on the project). Whilst we try to ensure all course units will run, some may be withdrawn or changed for a variety of reasons. Some",
+          "document_id": 614257
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "When are the first semester results published?",
+              "id": 354153,
+              "answers": [
+                {
+                  "answer_id": 392087,
+                  "document_id": 614251,
+                  "question_id": 354153,
+                  "text": "February",
+                  "answer_start": 187,
+                  "answer_end": 195,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "When is graduation?",
+              "id": 354154,
+              "answers": [
+                {
+                  "answer_id": 392088,
+                  "document_id": 614251,
+                  "question_id": 354154,
+                  "text": "December",
+                  "answer_start": 563,
+                  "answer_end": 571,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "six months of the programme, in two semesters, while the remaining time and part of semester two are dedicated to the project. Provisional results for the first semester are published in February. Formal exam board meetings with external examiners take place in June/July when official results are published. A second External Examiners’ Meeting is convened in November to consider the dissertations and to review the overall results. Recommendations for award or otherwise are made to the MSc panel of the Faculty, which makes the final decision in time for the December graduation.\nWelcome Week and Induction For 21/22 there are two",
+          "document_id": 614251
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where is the notice board",
+              "id": 354152,
+              "answers": [
+                {
+                  "answer_id": 392085,
+                  "document_id": 614248,
+                  "question_id": 354152,
+                  "text": "in the corridor adjacent to the MSc laboratory",
+                  "answer_start": 132,
+                  "answer_end": 178,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "use it, and check it regularly for relevant information.\nNotice Boards and Social Space The postgraduate notice board is positioned in the corridor adjacent to the MSc laboratory, Kilburn Building. This is used for displaying general information and advice. You are entitled to make use of the study and dining area on the lower first floor, near the Byte Cafe, and the breakout room beside the MSc lab is considered a space for PGT students.\nStudent Representatives The department and university take seriously both the issues of student representation and that of quality control of the programme. Student representatives are identified during",
+          "document_id": 614248
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Is there a limit on the number of students that can attend a course unit?",
+              "id": 354158,
+              "answers": [
+                {
+                  "answer_id": 392092,
+                  "document_id": 614258,
+                  "question_id": 354158,
+                  "text": "course units will have a restriction on the number of students who may attend",
+                  "answer_start": 0,
+                  "answer_end": 77,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "When should course unit registration be completed by?",
+              "id": 354159,
+              "answers": [
+                {
+                  "answer_id": 392093,
+                  "document_id": 614258,
+                  "question_id": 354159,
+                  "text": "10am on the Friday of the Department Welcome Week",
+                  "answer_start": 293,
+                  "answer_end": 342,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Can I change my course unit after the deadline?",
+              "id": 354160,
+              "answers": [
+                {
+                  "answer_id": 392094,
+                  "document_id": 614258,
+                  "question_id": 354160,
+                  "text": "please contact compsci-ssopgt@manchester.ac.uk",
+                  "answer_start": 485,
+                  "answer_end": 531,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "course units will have a restriction on the number of students who may attend for various reasons (e.g. licences, facilities, etc.) and these may become fully subscribed. Course Unit Selection Registration on pathways, themes and course units should be completed through the Student System by 10am on the Friday of the Department Welcome Week. A Course Unit Selection guide can be found at PGT course unit selection. If you wish to change your course unit selection after the deadline please contact compsci-ssopgt@manchester.ac.uk. It is not normally possible to change course unit selection for the semester after the end of the",
+          "document_id": 614258
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do any course units have prerequisites?",
+              "id": 354169,
+              "answers": [
+                {
+                  "answer_id": 392103,
+                  "document_id": 614263,
+                  "question_id": 354169,
+                  "text": "some course units in semester two have specific prerequisites in semester one",
+                  "answer_start": 145,
+                  "answer_end": 222,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "that is taught in semester two. A complete list of themes and course units they involve can be found on the PGT themes webpage. Please note that some course units in semester two have specific prerequisites in semester one – please check the specifications for individual course units. Advanced Computer Science Programme Specification The University Programme Specification document is available on our programme specifications website.\nProject MSc Project An MSc student progresses to the MSc project unless their exam performance is such as to require them to transfer to Diploma or PG Certificate (see Chapter 4). The MSc Project has two",
+          "document_id": 614263
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How is the MSc dissertation evaluated?",
+              "id": 354179,
+              "answers": [
+                {
+                  "answer_id": 392114,
+                  "document_id": 614267,
+                  "question_id": 354179,
+                  "text": "by two internal examiners",
+                  "answer_start": 356,
+                  "answer_end": 381,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "evaluating the outcome, and drawing conclusions. Presentation of Dissertations: the general requirements for presentation of a dissertation are set out in the University’s Ordinances and Regulations, in particular in the university’s guidance on the presentation of taught master’s dissertations. Examination of Projects: the MSc dissertation is evaluated by two internal examiners, (normally your supervisor and another academic not involved with the project) who submit written reports and agree an overall mark. The external examiner at a specially convened examination board meeting in November considers these reports and the dissertations themselves. The MSc project mark is the weighted average of the",
+          "document_id": 614267
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How are taught course units assessed?",
+              "id": 354182,
+              "answers": [
+                {
+                  "answer_id": 392117,
+                  "document_id": 614272,
+                  "question_id": 354182,
+                  "text": "by a combination of coursework and examination",
+                  "answer_start": 194,
+                  "answer_end": 240,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Where can I find the assessment method for each course unit?",
+              "id": 354183,
+              "answers": [
+                {
+                  "answer_id": 392118,
+                  "document_id": 614272,
+                  "question_id": 354183,
+                  "text": "on the syllabus page",
+                  "answer_start": 335,
+                  "answer_end": 355,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "The assessment for the MSc consists of two parts: the assessment of the taught course units undertaken; the assessment of the project.\nTaught Component Taught course units are normally assessed by a combination of coursework and examination, though some may be coursework or exam only. The assessment method for each unit is confirmed on the syllabus page. Coursework Coursework is likely to include practical laboratory exercises, written reports and essays, seminar presentations, and/or other forms appropriate to each individual course unit. The weightings of coursework and examination marks used in computing the course unit results are given in the course unit",
+          "document_id": 614272
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What happens to work that is submitted after the deadline?",
+              "id": 354174,
+              "answers": [
+                {
+                  "answer_id": 392109,
+                  "document_id": 614277,
+                  "question_id": 354174,
+                  "text": "the mark awarded will reduce by 10% of available marks per 24 hour period",
+                  "answer_start": 108,
+                  "answer_end": 181,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Can my deadline be extended?",
+              "id": 354176,
+              "answers": [
+                {
+                  "answer_id": 392111,
+                  "document_id": 614277,
+                  "question_id": 354176,
+                  "text": "Deadlines may be extended for students with mitigating circumstances",
+                  "answer_start": 376,
+                  "answer_end": 444,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Submission The University has the following policy on work that is submitted after the advertised deadline: the mark awarded will reduce by 10% of available marks per 24 hour period from the deadline until the assignment is submitted or no marks remain. This policy will apply to the project, and to coursework other than in specific cases where you have been told otherwise. Deadlines may be extended for students with mitigating circumstances (see Chapter 8). Examinations The examinations usually consist of a two hour paper for those course units with examinations. The examinations take place at the end of each",
+          "document_id": 614277
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How long is the teaching?",
+              "id": 354155,
+              "answers": [
+                {
+                  "answer_id": 392089,
+                  "document_id": 614256,
+                  "question_id": 354155,
+                  "text": "four periods",
+                  "answer_start": 50,
+                  "answer_end": 62,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "The taught part of the programme takes place over four periods (two in each semester).\nThe timetabled sessions of a course unit typically consist of a mix of activities including lectures, supervised practical work, seminars, discussions, etc. We follow a blended learning format, which means that lectures are available as videos to watch when you choose. Scheduled activities take place at particular times (as shown on the timetable) and you are expected to attend these online or in person, according to the course unit instructions. Course units also have coursework, some or all of which is likely to be assessed. Deadlines",
+          "document_id": 614256
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is a period?",
+              "id": 354156,
+              "answers": [
+                {
+                  "answer_id": 392090,
+                  "document_id": 614255,
+                  "question_id": 354156,
+                  "text": "a five-week block",
+                  "answer_start": 484,
+                  "answer_end": 501,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "theme are designed to build on each other, and thus a student following a “later” course unit within a theme without having followed the earlier one(s) is likely to lack prerequisite knowledge. In order to help you choose, there is an introduction to themes in the Welcome Week at the beginning of the academic year. The themes and their course units are listed on our current PGT website.\nCourse Units Taught MSc course units in the Department of Computer Science are delivered over a five-week block known as a period, plus at least one additional week for coursework completion and/or examinations.",
+          "document_id": 614255
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "When is the dissertation deadline?",
+              "id": 354200,
+              "answers": [
+                {
+                  "answer_id": 392137,
+                  "document_id": 614260,
+                  "question_id": 354200,
+                  "text": "2nd September 2022",
+                  "answer_start": 340,
+                  "answer_end": 358,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "When will my project be allocated to me?",
+              "id": 354167,
+              "answers": [
+                {
+                  "answer_id": 392101,
+                  "document_id": 614260,
+                  "question_id": 354167,
+                  "text": "towards the end of the first semester",
+                  "answer_start": 69,
+                  "answer_end": 106,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "dissertation. Project Allocation: projects are allocated to students towards the end of the first semester, satisfying individual preferences wherever possible. An announcement about this procedure will be made in the latter half of the first semester. Dissertation and Submission Deadlines: the deadline for submission of dissertations is 2nd September 2022. The only exception to this deadline is significant mitigating circumstances (see Chapter 8). Ethical Approval Mechanisms: all experiments that involve human or animal subjects have to be approved by the University Ethical Approval procedure. More details about this are available on the Wiki. To get approval, follow the procedure on",
+          "document_id": 614260
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What are the projects about?",
+              "id": 354161,
+              "answers": [
+                {
+                  "answer_id": 392095,
+                  "document_id": 614261,
+                  "question_id": 354161,
+                  "text": "current research and development areas",
+                  "answer_start": 19,
+                  "answer_end": 57,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Projects relate to current research and development areas, and are undertaken in the department or in\nan industrial setting. Students may propose their own projects so long as the project is suitable for the award of an MSc and the department can accommodate it. The projects are individually supervised and typically, you would meet with your supervisor, at least at the beginning of the project, for approximately one hour each week. Although much of your work is likely to be in the form of a program, technique or system, your degree is awarded primarily based on the quality of the final",
+          "document_id": 614261
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where can I find past exam papers?",
+              "id": 354178,
+              "answers": [
+                {
+                  "answer_id": 392113,
+                  "document_id": 614276,
+                  "question_id": 354178,
+                  "text": "the department’s website",
+                  "answer_start": 52,
+                  "answer_end": 76,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "semester. Past examination papers are available via the department’s website. Some examinations may be open book, in which case material may be taken into the examination room. Sometimes this material will be prescribed. Most examinations, however, are not of this form and no supporting material may be taken into the examination room. Resitting Examinations If you fail the examination component of your programme, the board of examiners will determine which examinations you must retake in accordance with The University of Manchester progression rules set out in the ordinance and regulations for the degree of master, postgraduate diploma and postgraduate certificate.",
+          "document_id": 614276
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What percentage do I need to pass?",
+              "id": 354171,
+              "answers": [
+                {
+                  "answer_id": 392105,
+                  "document_id": 614285,
+                  "question_id": 354171,
+                  "text": "50%",
+                  "answer_start": 133,
+                  "answer_end": 136,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What percentage do I need for merit?",
+              "id": 354172,
+              "answers": [
+                {
+                  "answer_id": 392106,
+                  "document_id": 614285,
+                  "question_id": 354172,
+                  "text": "60%",
+                  "answer_start": 216,
+                  "answer_end": 219,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Merit, Pass An MSc can be awarded with distinction, merit, or pass, depending on the following rules. For the MSc:\nthe pass level is 50% or above. Marks between 40% and 49.9% may be compensatable; the merit level is 60% or above. The boundary zone for the merit level is between 58% and 59.9%; the distinction level is 70% or above. The boundary zone for the distinction level is between 68% and 69.9%. For a PG diploma or PG certificate: the pass level is 40% or above. Marks between 30% and 39.9% may be compensatable; The overall mark for the taught",
+          "document_id": 614285
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What should I do if there is a fire?",
+              "id": 354186,
+              "answers": [
+                {
+                  "answer_id": 392121,
+                  "document_id": 614306,
+                  "question_id": 354186,
+                  "text": "Make your way to the building assembly point and await further instruction",
+                  "answer_start": 232,
+                  "answer_end": 306,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "The automatic detectors allow early detection of any developing fire. If you discover a fire and the building alarm is not sounding, activate the nearest break glass point on your escape route and evacuate the building immediately. Make your way to the building assembly point and await further instruction. If possible, you should inform security of the event and supply them with as much information as possible in order for them to evaluate the risk and to take appropriate action. Fire Alarm: the audible alarm for Kilburn building is a two-stage system: Stage 1 is an intermittent alarm – be",
+          "document_id": 614306
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How many credits is the MSc project?",
+              "id": 354180,
+              "answers": [
+                {
+                  "answer_id": 392115,
+                  "document_id": 614270,
+                  "question_id": 354180,
+                  "text": "90",
+                  "answer_start": 98,
+                  "answer_end": 100,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How many credits is the diploma project?",
+              "id": 354181,
+              "answers": [
+                {
+                  "answer_id": 392116,
+                  "document_id": 614270,
+                  "question_id": 354181,
+                  "text": "30",
+                  "answer_start": 407,
+                  "answer_end": 409,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "marks for the project overview and plan and for the MSc dissertation. The MSc project contributes 90 Credits towards the 180 credits of the master’s degree. Diploma Project Although full-time students are not admitted to diploma programmes, a student whose grades do not meet the requirements for masters could be transferred to the diploma programme (see Chapter 4for details). The diploma project is only 30 Credits, and thus requires less time, and is assessed by way of a smaller diploma dissertation.\nStudents may be identified for transfer to the diploma programme at different points in the year, and this affects the",
+          "document_id": 614270
+        }
+      ]
+    }
+  ]
+}
