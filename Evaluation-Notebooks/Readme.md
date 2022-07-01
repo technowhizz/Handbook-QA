@@ -1,6 +1,6 @@
 # Evaluation Notebooks for Handbook QA
 
-These notebooks were produced on [Kaggle](https://kaggle.com)
+These notebooks were produced on [Kaggle](https://kaggle.com) and have not been tested on a local Jupyter installation
 
 ## Notebook Names
 
