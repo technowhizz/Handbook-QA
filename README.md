@@ -4,7 +4,7 @@ Handbook-QA is the result of a Final Year Project at The University of Mancheste
 
 This project makes use of a Dense Passage Retriever and FAISS for Question Answering.
 
-Different Evaluations can be found in the `Evaluation Notebooks` folder
+Different Evaluations can be found in the `Evaluation-Notebooks` folder
 
 ## Installation
 
