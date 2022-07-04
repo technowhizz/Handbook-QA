@@ -12,9 +12,7 @@ Different Evaluations can be found in the `Evaluation-Notebooks` folder
 
 1. cd into the repo `cd Handbook-QA`
 
-1. [Install Haystack with FAISS](https://github.com/deepset-ai/haystack#floppy_disk-installation) for your Operating System. (One should note that installing FAISS on Windows requires installing FAISS-Windows separately from Haystack)
-
-1. Install the python requirements `pip install -r requirements.txt`
+1. Install the python requirements `pip install -r requirements.txt` This will install Flask and Haystack
 
 1. Ensure you have `npm` installed on your machine
 

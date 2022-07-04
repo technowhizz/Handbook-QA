@@ -1,2 +1,3 @@
+git+https://github.com/deepset-ai/haystack.git#egg=farm-haystack[faiss]
 Flask==2.1.2
 flask_cors==3.0.10
