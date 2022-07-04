@@ -29,6 +29,7 @@ In order to run this app, you need to start the backend and the frontend.
 ### Start the backend
 
 ```bash
+# Make sure you are in the Handbook-QA folder (not the 'react' folder from the previous steps) 
 export FLASK_APP=app.py
 flask run
 ```
